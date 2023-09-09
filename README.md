@@ -23,11 +23,11 @@ Produces: JSON (application/json)
 
 Description: Fetch GitHub repositories for a specific user.
 
-###Parameters:
+### Parameters:
 
 -:username (required): The GitHub username of the user.
 
-###Headers:
+### Headers:
 
 -Accept: application/json (required): The desired response format.
 
