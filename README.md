@@ -32,11 +32,9 @@ Description: Fetch GitHub repositories for a specific user.
 `-Accept: application/json (required): The desired response format.`
 
 Example Request:
-GET http://localhost:8080/api/github/repositories/{username}
+`GET http://localhost:8080/api/github/repositories/{username}`
 
-Replace {username} with the GitHub username you want to fetch repositories for.
-
-Example Response:
+## Example Response:
 
 ```json
 [
